@@ -1,2 +1,2 @@
 # EducationalExamples
-repository for a banch of educational proof of concept codes
+This repository has the intent to hols educational proof of concept codes for anyone who seeks it.
